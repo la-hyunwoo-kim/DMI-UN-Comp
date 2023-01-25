@@ -1,0 +1,14 @@
+exploration/
+__pycache__/
+.vscode/
+out/
+output/
+log/
+
+#experiments
+exp_*.py
+creds.json
+
+client-token.json
+
+server/

@@ -1,0 +1,25 @@
+{
+    "un-source-url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+    "output-filename": "DMI UN Comp",
+    "folder-id": "1ul0jNDo-GuZDuiCTzu4L4kQ6BWWpng63",
+    "test-folder-id": "1boAkeRYaUK6cTL_RG-XGR2cM6d20YGcR",
+    "executable-folder-id": "1Azz8i3Qog9-nUX4f0gRENf2GE_PTvEIy",
+    "sender-email": "hyunwoo.kim@dowjones.com",
+    "receiver-email": ["RiskandComplianceResearch-SpecialLists@dowjones.com"],
+    "cc-email": ["speciallistquality@dowjones.com"],
+    "bcc-email": ["hyunwoo.kim@dowjones.com"],
+    "name_type_index": {
+        "pn-count": 1,
+        "aka-count": 3,
+        "lqaka-count": 5,
+        "osn-count": 7,
+        "name-count": 9,
+        "profile-count": 11
+    },
+    "kpi-spreadsheet-id" : "1btY4GReQEAD9uU37sshHz1Cz-4yu2wYszTc9kHAS_6k",
+    "kpi-spreadsheet-id-test": "17qjfqnEEC0I9sQRiNkqP_PwilpiyjnECUV7Xxc9ML34",
+    "un-kpi-sheet-name" : "Weekly UN Names Count",
+    "header-row-index" : 1,
+    "pwc-sheet-name": "FY23|Weekly Check Log/PwC",
+    "provenance": "UNOT UNCON UNTAL"
+}
